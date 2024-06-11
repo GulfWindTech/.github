@@ -30,4 +30,4 @@ jobs:
             GulfWindTech/openfast-service
             GulfWindTech/turbsim-service
 
-          token: ${{ secrets.LABEL_SYNC_TOKEN_GITHUB }}
+          token: ${{ secrets.LABEL_SYNC_TOKEN }}
